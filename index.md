@@ -1,4 +1,4 @@
-index.html
+index.md
 <!DOCTYPE html>
 
 <html>

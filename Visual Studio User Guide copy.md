@@ -10,7 +10,7 @@
 
     <body>
 
-        <p>This is an example of a simple HTML page with one paragraph.</p>
+        <p>This is an example of a simple HTML page with one paragraph.
 
     
 
@@ -112,7 +112,7 @@ https://pandao.github.io/editor.md/en.html
 
 # GitHub basics_draft
 ## How to create Repository in GitHub
-## How to share your GitHub Repository with your collaborators
+## How to share your GitHub Repository with your collaborators </p>
 </body>
 
 </html>

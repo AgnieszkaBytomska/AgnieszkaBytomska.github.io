@@ -1,20 +1,6 @@
-<!DOCTYPE html>
-
-<html>
-
-    <head>
-
-        <title>Visual Studio User Guide</title>
-
-    </head>
-
-    <body>
-
-        <p>This is an example of a simple HTML page with one paragraph.
-
-    
 
 Visual Studio User Guide
+
 # Overview
 This document provides the user with a comprehensive description of Visual Studio Code Installation and plug-ins set-up to have a previews of content created. The Visual Studio User Guide presents an overview of the Markdown basics functionality dedicated to text formatting.
 
@@ -112,7 +98,4 @@ https://pandao.github.io/editor.md/en.html
 
 # GitHub basics_draft
 ## How to create Repository in GitHub
-## How to share your GitHub Repository with your collaborators </p>
-</body>
-
-</html>
+## How to share your GitHub Repository with your collaborators

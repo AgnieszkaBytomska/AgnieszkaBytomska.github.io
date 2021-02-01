@@ -1,7 +1,7 @@
 name: Agnieszka Bytomska 
 title: Visual Studio Manual
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
-remote_theme: AgnieszkaBytomska.github.io/just-the-docs
+remote_theme: AgnieszkaBytomska/just-the-docs
 
 color_scheme: dark
 

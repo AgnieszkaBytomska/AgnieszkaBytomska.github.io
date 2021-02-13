@@ -1,13 +1,13 @@
 ---
 
 layout: default
-title: Visual Studio User Guide
+title: Visual Studio Code
 nav_order: 2
 has_children: false
 
 ---
 
-Visual Studio User Guide
+Visual Studio Code
 
 # Overview
 This document provides the user with a comprehensive description of Visual Studio Code Installation and plug-ins set-up to have a preview of content created. The Visual Studio User Guide presents an overview of the Markdown basics functionality dedicated to text formatting.

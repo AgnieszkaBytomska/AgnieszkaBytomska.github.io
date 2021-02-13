@@ -1,6 +1,6 @@
 ---
 
-layout: default 
+layout: default
 title: Visual Studio User Guide
 nav_order: 2
 has_children: false
@@ -16,7 +16,7 @@ This document provides the user with a comprehensive description of Visual Studi
 
 ## How to Download and Install Visual Studio Code
 
-1. Visual Studio Code can be downloaded from the following link https://visualstudio.microsoft.com/downloads/> 
+1. Visual Studio Code can be downloaded from the following link: [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) 
 3. Click on the downloaded exe file.
 4. In the next screen, 
 5. Accept the agreement and click on **Next**.
@@ -26,21 +26,20 @@ This document provides the user with a comprehensive description of Visual Studi
 6. Click next.
 7. Visual Studio will start downloading the initial files. ...
 8. In next screen,  click on “create a desktop icon” so that it can be accessed from desktop and click on **Next**.
-9. 
-10. ![text to display if no image](assets/images/icon.png
+
 
 ![](assets/../../assets/images/icon.png)
 
-11. In next screen click **Install** button.
-12. After installation completes, click on the **Finish** button, and the visual studio code will get open.
-13. By default, VS Code installs under C:\users\{username}\AppData\Local\Programs\Microsoft VS Code.
+1.  In next screen click **Install** button.
+2.  After installation completes, click on the **Finish** button, and the visual studio code will get open.
+3.  By default, VS Code installs under C:\users\{username}\AppData\Local\Programs\Microsoft VS Code.
 
 ## How to Install Visual Studio Code extensions
 
 You can browse and install extensions within VS Code.
 1. Click on the Extension icon in the Activity Bar on the left side ribbon
 
- ![text to display if no image](assets/images/extension.png)
+
  ![](assets/../../assets/images/extension.png)
  1. In search field paste eg.: **Markdown All In One**
  2. The list of the most popular extensions appears
@@ -52,8 +51,8 @@ You can browse and install extensions within VS Code.
 
 **Learn more**
 
-Documentation for VS Code:
-https://code.visualstudio.com/docs/getstarted/userinterface
+Documentation for VS Code: [https://code.visualstudio.com/docs/getstarted/userinterface]
+
 
 Specification: 
 https://daringfireball.net/projects/markdown/ 

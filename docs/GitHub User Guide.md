@@ -48,6 +48,7 @@ You can browse and install extensions within VS Code.
 **Learn more**
 
 Documentation for VS Code:
+<a href=\"https://code.visualstudio.com/docs/getstarted/userinterface">Felicity Brand's example DITA project.</a>
 https://code.visualstudio.com/docs/getstarted/userinterface
 
 Specification: 

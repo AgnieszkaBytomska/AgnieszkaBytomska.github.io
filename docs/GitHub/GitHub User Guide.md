@@ -2,9 +2,9 @@
 
 layout: default
 
-title: Visual Studio User Guide
+title: GitHub User Guide
 
-parent: Visual Studio User Guide
+parent: GitHub User Guide
 
 nav_order: 1
 

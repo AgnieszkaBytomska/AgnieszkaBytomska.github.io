@@ -5,6 +5,7 @@ layout: default
 title: GitHub User Guide
 
 parent: GitHub User Guide
+has children: true
 
 nav_order: 1
 

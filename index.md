@@ -2,20 +2,17 @@
 layout: default
 title: Introduction
 nav_order: 1
-description: "Driver's Handbook for the Morris Mini Minor"
+description: "Handbook for Begginers"
 permalink: /
 ---
 
-![](/assets/images/visual studio.png)
 
 # Introduction
 
-This manual will help you understand the operation and maintenance of your vehicle so that you can enjoy many hours of driving pleasure.
+This document provides the user with a comprehensive description of Visual Studio Code Installation and plug-ins set-up to have a preview of content created. The User Guide presents an overview of the Markdown basics functionality dedicated to text formatting.
+It lets you become familiar with source code control features and learn how to reate a private and public repository in GithHub Pages and how to share it with collaborators.
 
-Welcome to the growing family of Mini owners. This vehicle has been delivered to you with confidence.
-
-This manual provides all the information necessary to maintain the vehicle in first-class condition and to ensure trouble-free service.
-Read this manual before operating your vehicle.
+This manual provides all the information necessary for technical writers to publish content in HTML.
 
 ![](/assets/images/visual studio.png)
 *Saloon model*
@@ -23,13 +20,15 @@ Read this manual before operating your vehicle.
 ![Traveller model](/assets/images/Traveller.png)  
 *Traveller model*
 
-## Reading this manual
+## Requirements for Installation Visual Studio Code and GitHub Desktop
 
-This manual includes information for the Saloon and Traveller models.
+| Component | Details |
+|:----------|:-----------------|
+| Hardware | 1.6 GHz or faster processor
+             1 GB of RAM |
+| Platforms| OS X Yosemite (10.10+)
+             Windows 7 (with .NET Framework 4.5.2), 8.0, 8.1 and 10 (32-bit and 64-bit)
+             Linux (Debian): Ubuntu Desktop 16.04, Debian 9
+             Linux (Red Hat): Red Hat Enterprise Linux 7, CentOS 8, Fedora 24
+            Additional Windows requirements# |
 
-All information, specifications and illustrations in this manual are correct at the time of printing.
-
-**ℹ️ Tip:** References to right or left hand sides in this book are made when viewing the vehicle from the rear.
-
-Detailed and technical information is contained in the Workshop Manual which is available from your authorised
-Mini dealer.

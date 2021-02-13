@@ -21,12 +21,16 @@ This document provides the user with a comprehensive description of Visual Studi
 4. In the next screen, 
 5. Accept the agreement and click on **Next**.
    
-   ![text to display if no image](./agreements.png)
+
+   ![text](../assets/images/agreements.png)
 6. Click next.
 7. Visual Studio will start downloading the initial files. ...
 8. In next screen,  click on “create a desktop icon” so that it can be accessed from desktop and click on **Next**.
 9. 
-10. ![text to display if no image](./icon.png)
+10. ![text to display if no image](assets/images/icon.png
+
+![](assets/../../assets/images/icon.png)
+
 11. In next screen click **Install** button.
 12. After installation completes, click on the **Finish** button, and the visual studio code will get open.
 13. By default, VS Code installs under C:\users\{username}\AppData\Local\Programs\Microsoft VS Code.
@@ -36,8 +40,8 @@ This document provides the user with a comprehensive description of Visual Studi
 You can browse and install extensions within VS Code.
 1. Click on the Extension icon in the Activity Bar on the left side ribbon
 
- ![text to display if no image](./extension.png)
-
+ ![text to display if no image](assets/images/extension.png)
+ ![](assets/../../assets/images/extension.png)
  1. In search field paste eg.: **Markdown All In One**
  2. The list of the most popular extensions appears
  3. Click **Install** button.

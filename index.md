@@ -6,7 +6,7 @@ description: "Driver's Handbook for the Morris Mini Minor"
 permalink: /
 ---
 
-![Morris Badge](/assets/images/Morris_badge.png)
+![](/assets/images/visual studio.png)
 
 # Introduction
 
@@ -17,7 +17,7 @@ Welcome to the growing family of Mini owners. This vehicle has been delivered to
 This manual provides all the information necessary to maintain the vehicle in first-class condition and to ensure trouble-free service.
 Read this manual before operating your vehicle.
 
-![Saloon model](/assets/images/Saloon.png)  
+![](/assets/images/visual studio.png)
 *Saloon model*
 
 ![Traveller model](/assets/images/Traveller.png)  

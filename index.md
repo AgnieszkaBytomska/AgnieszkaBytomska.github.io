@@ -15,7 +15,7 @@ This manual will help you understand the operation and maintenance of your vehic
 Welcome to the growing family of Mini owners. This vehicle has been delivered to you with confidence.
 
 This manual provides all the information necessary to maintain the vehicle in first-class condition and to ensure trouble-free service.
-Please read this manual before operating your vehicle.
+Read this manual before operating your vehicle.
 
 ![Saloon model](/assets/images/Saloon.png)  
 *Saloon model*

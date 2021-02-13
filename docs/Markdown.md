@@ -6,7 +6,6 @@ has_children: false
 
 ---
 
-Markdown
 
 
 # Markdown basics
@@ -48,4 +47,3 @@ https://ghost.org/changelog/markdown/
 https://www.markdownguide.org/basic-syntax/
 
 https://pandao.github.io/editor.md/en.html
-

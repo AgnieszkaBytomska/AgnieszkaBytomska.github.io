@@ -7,12 +7,10 @@ has_children: false
 
 ---
 
-Visual Studio Code
-
-# Overview
-This document provides the user with a comprehensive description of Visual Studio Code Installation and plug-ins set-up to have a preview of content created. The Visual Studio User Guide presents an overview of the Markdown basics functionality dedicated to text formatting.
 
 # Visual Studio Code
+
+Visual Studio Code is a code editor and allows you to quickly find text and replace in the currently opened file. 
 
 ## How to Download and Install Visual Studio Code
 
@@ -30,7 +28,7 @@ This document provides the user with a comprehensive description of Visual Studi
 
 ![](assets/../../assets/images/icon.png)
 
-1.  In next screen click **Install** button.
+8.  In next screen click **Install** button.
 2.  After installation completes, click on the **Finish** button, and the visual studio code will get open.
 3.  By default, VS Code installs under C:\users\{username}\AppData\Local\Programs\Microsoft VS Code.
 
@@ -41,11 +39,12 @@ You can browse and install extensions within VS Code.
 
 
  ![](assets/../../assets/images/extension.png)
- 1. In search field paste eg.: **Markdown All In One**
+
+ 2. In search field paste eg.: **Markdown All In One**
  2. The list of the most popular extensions appears
  3. Click **Install** button.
    
-   Note:
+   **Note:**
    To have preview of written content Click Open **Preview to the Side**
 
 
@@ -66,47 +65,3 @@ You can browse and install extensions within VS Code.
 
 [Multiple Cursors in Visual Studio Code for Windows](https://tahoeninjas.blog/2019/03/30/multi-cursor-editing-in-visual-studio-code/)
 
-
-# Markdown basics
-## How to use Markdown for writing documentation
-
-Markdown allows you to write using an easy-to-read, easy-to-write plain text format, that can then be converted into structurally valid HTML. Find below the most useful hints in your daily work and link to the basic functions.
-
- *Tips and tricks for working in Markdown:*
-* Commands: Windows Shift + Ctrl + p / Mac Cmd + p, in the <bar
-* Preview: Open Preview to the Side
-* Display white space: View> Render Whitespace
-* Navigation: Outline / Shift + Ctrl + P @ / breadcrumbs
-* Hint: Ctrl + Space
-* Suggesting formatting, not words: Shift + Ctrl + P> Preferences: Configure Language Specific Settings> Markdown> "editor.suggest.showWords": false
-
-
-## Markdown syntax guide
-
-Metadata used to create a well-formatted text file:
-
-* Headers
-* Emphasis
-* Lists (Ordered & Unordered)
-* Images
-* Links
-* Blockquotes
-* Tables
-* Blocks of code
-* Table of content
-  
-**Learn more**
-
-https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=en
-
-https://markdownlivepreview.com/
-
-https://ghost.org/changelog/markdown/
-
-https://www.markdownguide.org/basic-syntax/
-
-https://pandao.github.io/editor.md/en.html
-
-# GitHub basics_draft
-## How to create Repository in GitHub
-## How to share your GitHub Repository with your collaborators

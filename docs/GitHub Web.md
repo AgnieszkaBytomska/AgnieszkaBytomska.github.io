@@ -6,7 +6,6 @@ has_children: false
 
 ---
 
-GitHub Web
 
 # GitHub Pages basics_draft
 ## How to create Repository in GitHub

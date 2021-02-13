@@ -50,12 +50,11 @@ You can browse and install extensions within VS Code.
 "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
 
 
-https://code.visualstudio.com/docs/getstarted/userinterface
+[Visual Studio](https://code.visualstudio.com/docs/getstarted/userinterface)
 
-Specification: 
-https://daringfireball.net/projects/markdown/ 
+[Specification](https://daringfireball.net/projects/markdown/)
 
-Tutorial/:
+Tutorial:
 https://commonmark.org/help/tutorial/index.html
 
 Extensions:

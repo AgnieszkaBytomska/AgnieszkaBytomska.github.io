@@ -5,13 +5,13 @@ layout: default
 title: GitHub User Guide
 
 parent: GitHub User Guide
-has children: true
+has children: false
 
-nav_order: 1
+nav_order: 3
 
 ---
 
-Visual Studio User Guide
+GitHub User Guide
 
 # Overview
 This document provides the user with a comprehensive description of Visual Studio Code Installation and plug-ins set-up to have a previews of content created. The Visual Studio User Guide presents an overview of the Markdown basics functionality dedicated to text formatting.

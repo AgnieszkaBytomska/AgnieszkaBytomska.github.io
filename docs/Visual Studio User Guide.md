@@ -16,7 +16,7 @@ This document provides the user with a comprehensive description of Visual Studi
 
 ## How to Download and Install Visual Studio Code
 
-1. Visual Studio Code can be downloaded from the following link: [Visual Studio Code](https://visualstudio.microsoft.com/downloads/) 
+1. Visual Studio Code can be downloaded from the following link: [Link to Visual Studio Code](https://visualstudio.microsoft.com/downloads/) 
 3. Click on the downloaded exe file.
 4. In the next screen, 
 5. Accept the agreement and click on **Next**.
@@ -51,21 +51,21 @@ You can browse and install extensions within VS Code.
 
 **Learn more**
 
-Documentation for VS Code: [https://code.visualstudio.com/docs/getstarted/userinterface]
+[Documentation for VS Code](https://code.visualstudio.com/docs/getstarted/userinterface)
 
 
-Specification: 
-https://daringfireball.net/projects/markdown/ 
+[Specification](https://daringfireball.net/projects/markdown/)
 
-Tutorial/:
-https://commonmark.org/help/tutorial/index.html
+[Tutorial](https://commonmark.org/help/tutorial/index.html)
 
-Extensions:
-https://github.com/mundimark/awesome-markdown 
 
-About Visual Studio Code:
-https://github.com/cangulo/meetups/tree/master/vs_code_for_docs/ 
-https://tahoeninjas.blog/2019/03/30/multi-cursor-editing-in-visual-studio-code/
+[Extensions](https://github.com/mundimark/awesome-markdown )
+
+
+[About Visual Studio Code](https://github.com/cangulo/meetups/tree/master/vs_code_for_docs/) 
+
+[Multiple Cursors in Visual Studio Code for Windows](https://tahoeninjas.blog/2019/03/30/multi-cursor-editing-in-visual-studio-code/)
+
 
 # Markdown basics
 ## How to use Markdown for writing documentation

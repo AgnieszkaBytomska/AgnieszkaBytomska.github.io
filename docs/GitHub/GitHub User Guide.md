@@ -1,3 +1,14 @@
+---
+
+layout: default
+
+title: Visual Studio User Guide
+
+parent: Visual Studio User Guide
+
+nav_order: 1
+
+---
 
 Visual Studio User Guide
 

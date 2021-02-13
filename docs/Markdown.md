@@ -15,7 +15,7 @@ Markdown allows you to write using an easy-to-read, easy-to-write plain text for
 
  *Tips and tricks for working in Markdown:*
 * Commands: Windows Shift + Ctrl + p / Mac Cmd + p, in the <bar
-* Preview: Open Preview to the Side
+* Preview: Open Preview to the Side ![](assets/../../assets/images/preview.png)
 * Display white space: View> Render Whitespace
 * Navigation: Outline / Shift + Ctrl + P @ / breadcrumbs
 * Hint: Ctrl + Space

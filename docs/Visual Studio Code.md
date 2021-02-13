@@ -29,7 +29,7 @@ Visual Studio Code is a code editor and allows you to quickly find text and repl
 ![](assets/../../assets/images/icon.png)
 
 8.  In next screen click **Install** button.
-2.  After installation completes, click on the **Finish** button, and the visual studio code will get open.
+9.  After installation completes, click on the **Finish** button, and the visual studio code will get open.
 3.  By default, VS Code installs under C:\users\{username}\AppData\Local\Programs\Microsoft VS Code.
 
 ## How to Install Visual Studio Code extensions
@@ -40,9 +40,9 @@ You can browse and install extensions within VS Code.
 
  ![](assets/../../assets/images/extension.png)
 
- 2. In search field paste eg.: **Markdown All In One**
- 2. The list of the most popular extensions appears
- 3. Click **Install** button.
+  2. In search field paste eg.: **Markdown All In One**
+  2. The list of the most popular extensions appears
+  3. Click **Install** button.
    
    **Note:**
    To have preview of written content Click Open **Preview to the Side**

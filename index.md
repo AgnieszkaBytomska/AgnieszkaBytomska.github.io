@@ -17,7 +17,7 @@ This manual provides all the information necessary for technical writers to publ
 ![](/assets/images/visual studio.png)
 
 
-## Requirements for Installation Visual Studio Code and GitHub Desktop
+**Requirements for Installation Visual Studio Code and GitHub Desktop**
 
 | Component | Version |
 |:----------|:-----------------|

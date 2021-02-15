@@ -1,13 +1,13 @@
 ---
 layout: default
-title: GitHub Desktop
-nav_order: 4
+title: Jekyll
+nav_order: 6
 has_children: false
 
 ---
 
 
-# GitHub Desktop
+# Jekyll
 
 GitHub (distributed version control system) is a platform where users can host Git repositories. GitHub Desktop allows you to synchronize branches and clone repositories.  It helps you facilitate easy sharing and collaboration on projects with anyone at any time.
 

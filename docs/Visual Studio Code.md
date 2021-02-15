@@ -21,7 +21,7 @@ Visual Studio Code is a code editor and allows you to quickly find text and repl
    
 
    ![text](../assets/images/agreements.png)
-6. Click next.
+6. Click Next.
 7. Visual Studio will start downloading the initial files. ...
 8. In next screen,  click on “create a desktop icon” so that it can be accessed from desktop and click on **Next**.
 

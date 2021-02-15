@@ -56,6 +56,8 @@ Add, commit, and push your changes:
 
 ## How to share your GitHub Repository with your collaborators
 
+To host (or share) a Git repository on GitHub, follow the steps below:
+
 1. Go to your GitHub Repository.
 
 2. Click on Settings tab.

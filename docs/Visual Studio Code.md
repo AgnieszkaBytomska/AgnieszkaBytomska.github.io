@@ -16,14 +16,13 @@ Visual Studio Code is a code editor which allows you to quickly find text and re
 
 1. Visual Studio Code can be downloaded from the following link: [Link to Visual Studio Code](https://visualstudio.microsoft.com/downloads/) 
 3. Click on the downloaded exe file.
-4. In the next screen, 
-5. Accept the agreement and click on **Next**.
+4. Accept the agreement and click on **Next**.
    
 
    ![text](../assets/images/agreements.png)
-6. Click Next.
-7. Visual Studio will start downloading the initial files. ...
-8. In next screen,  click on “create a desktop icon” so that it can be accessed from desktop and click on **Next**.
+5. Click Next.
+6. Visual Studio will start downloading the initial files. ...
+7. In next screen,  click on “create a desktop icon” so that it can be accessed from desktop and click on **Next**.
 
 
 ![](assets/../../assets/images/icon.png)

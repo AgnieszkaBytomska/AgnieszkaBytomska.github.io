@@ -24,6 +24,7 @@ Markdown is a text editor which lets you focus on writing and preview a publishi
 * Suggesting formatting, not words: Shift + Ctrl + P> Preferences: Configure Language Specific Settings> Markdown> "editor.suggest.showWords": false
 
 
+
 ## Markdown syntax guide
 
 Metadata used to create a well-formatted text file:

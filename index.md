@@ -18,6 +18,7 @@ This manual provides all the information necessary for technical writers to publ
 
 ## Read setup instructions and become familiar with:
 
+
 **Visual Studio Code**
 
 ![](assets/images/vscode.png)

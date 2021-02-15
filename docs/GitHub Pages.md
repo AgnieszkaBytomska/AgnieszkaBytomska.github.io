@@ -15,12 +15,31 @@ Basic functions
 ![](../assets/images/GitHub%20Glossary.png)
 
 
+## How to create Account on GitHub Pages
+Click on link https://github.com/login and create account.
+
+screen
+
+Verify your e-mail address 
+Your account is created.
+
+
+click on “create a desktop icon” so that it can be accessed from desktop and click on **Next**.
+
+## How to connect GitHub Desktop with GitHub Pages
+
+Authorise dektop
+
+
+screen
+
+
+## How to create Public Repository in GitHub
+
+Click new and add repos name
+
+
 Go to the folder where you want to store your project, and clone the new repository:
-
-## How to Configure Account of GitHub Pages
-
-## How to create Repository in GitHub
-
 create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.
 Add, commit, and push your changes:
 Fire up a browser and go to https://username.github.io.

@@ -10,7 +10,7 @@ has_children: false
 
 # Visual Studio Code
 
-Visual Studio Code is a code editor and allows you to quickly find text and replace in the currently opened file. 
+Visual Studio Code is a code editor which allows you to quickly find text and replace in the currently opened file. 
 
 ## How to Download and Install Visual Studio Code
 
@@ -45,6 +45,7 @@ You can browse and install extensions within VS Code.
   3. Click **Install** button.
    
    **Note:**
+   
    To have preview of written content Click Open **Preview to the Side**
 
 

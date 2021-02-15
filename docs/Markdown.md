@@ -9,9 +9,11 @@ has_children: false
 
 
 # Markdown basics
+Markdown is a text editor which lets you focus on writing and preview a publishing format in HTML. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, that can then be converted into structurally valid HTML.
+
 ## How to use Markdown for writing documentation
 
-Markdown allows you to write using an easy-to-read, easy-to-write plain text format, that can then be converted into structurally valid HTML. Find below the most useful hints in your daily work and link to the basic functions.
+ Find below the most useful hints in your daily work and link to the basic functions.
 
  *Tips and tricks for working in Markdown:*
 * Commands: Windows Shift + Ctrl + p / Mac Cmd + p, in the <bar
@@ -38,12 +40,12 @@ Metadata used to create a well-formatted text file:
   
 **Learn more**
 
-https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=en
+ [How to use Markdown for writing technical documentation](https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=en)
 
-https://markdownlivepreview.com/
+[Markdown Live Preview](https://markdownlivepreview.com/)
 
-https://ghost.org/changelog/markdown/
+[Guide to Markdown](https://ghost.org/changelog/markdown/)
 
-https://www.markdownguide.org/basic-syntax/
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-https://pandao.github.io/editor.md/en.html
+[Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)

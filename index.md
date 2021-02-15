@@ -14,8 +14,24 @@ It lets you become familiar with source code control features and learn how to c
 
 This manual provides all the information necessary for technical writers to publish content in HTML.
 
-![](/assets/images/visual studio.png)
 
+![](_includes/GitHub%20Process.svg)
+
+**Visual Studio Code**
+
+![](assets/images/vscode.png)
+
+**Markdown**
+
+![](asstes/../assets/images/visual%20studio.png)
+
+**GitHub Desktop**
+
+![](assets/images/Github.png)
+
+**GitHub Pages**
+
+![](assets/images/GitHub%20Pages.png)
 
 **Requirements for Installation Visual Studio Code and GitHub Desktop**
 

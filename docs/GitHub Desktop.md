@@ -19,9 +19,8 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
 1. GitHub Desktop can be downloaded from the following link: [Link to GitHub Desktop](	https://desktop.github.com/
 ) 
 3. Click Download for Windows (64bit).
-4. Click **Run and Save file**.
-5. In the pop-up window, click Install.
-   
+4. Click **Run** and Save file.
+5. In the pop-up window, click Install.  
 6. In your computer's Downloads folder, double-click GitHub Desktop.
    
  ![](/assets/images/Github.png)
@@ -33,7 +32,7 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
      
 
 
-Conect rep add filescommit push
+Conect rep add files commit push
 
 
 
@@ -43,16 +42,18 @@ Założenie repozytorium
 •
 Dodanie plików
 •
-Commit i push na GitHuba
+Commit to Main i Push Origin on GitHubCommit to Main i Push Origin on GitHub
 
 ## How to create a Local Repository in GitHub
-Create a folder on your system (C:\Repos_GitHub). This will act as a local repository which will later hit the GitHub website
+1.Create a folder on your system (C:\Repos_GitHub). This will act as a local repository which will connect the GitHub Pages.
+
+screen authorise 
+
+2.Commit to Main and Push Origin
+
 
 
 [link](https://training.github.com/downloads/github-git-cheat-sheet/)
 
-## How to share your GitHub Repository with your collaborators
-
-To host (or share) a Git repository on GitHub, follow the steps below:
 
 ## How to Clone Repository

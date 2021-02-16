@@ -32,7 +32,7 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
      
 
 
-Conect rep add files commit push
+Connect rep add files commit push
 
 
 

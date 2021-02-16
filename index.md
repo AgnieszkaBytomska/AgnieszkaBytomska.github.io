@@ -22,8 +22,8 @@ This manual provides all the information necessary for technical writers to publ
 
 **Visual Studio Code**    **GitHub Desktop**   **GitHub Pages**
 
-| Component | ![](assets/images/vscode.png) |
-![](assets/images/vscode.png)
+ | ![](assets/images/vscode.png) | ![](assets/images/Github.png)  |
+![](assets/images/GitHub%20Pages.png)
 
 **Markdown**
 

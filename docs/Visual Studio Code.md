@@ -25,7 +25,7 @@ Visual Studio Code is a code editor which allows you to quickly find text and re
 7. In next screen,  click on “create a desktop icon” so that it can be accessed from desktop and click on **Next**.
 
 
-     ![](assets/../../assets/images/icon.png)
+     ![text](assets/../../assets/images/icon.png)
 
 8.  In next screen click **Install** button.
 9.  After installation completes, click on the **Finish** button, and the visual studio code will get open.
@@ -39,9 +39,9 @@ You can browse and install extensions within VS Code.
 
    ![](assets/../../assets/images/extension.png)    
 
-  2. In search field paste eg.: **Markdown All In One**
-  2. The list of the most popular extensions appears
-  3. Click **Install** button.
+2. In search field paste eg.: **Markdown All In One**
+3. The list of the most popular extensions appears
+4. Click **Install** button.
    
    **Note:**
    

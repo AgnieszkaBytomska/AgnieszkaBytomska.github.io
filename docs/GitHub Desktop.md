@@ -55,7 +55,7 @@ screen authorise
 
 ## How to Clone Repository
 
-1. Go to your GitHub Pages Repository you want to clone.
+1. Go to your GitHub Pages Repository you want to clone.  
 
 2. Click on **Code** on the main page of the repository.
 3. To clone the repository under "Clone with HTTPS" click on the follwing icon

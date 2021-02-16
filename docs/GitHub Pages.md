@@ -66,7 +66,7 @@ To host (or share) a Git repository on GitHub, follow the steps below:
 
 4. Enter collaborator username
 
-![](../assets/images/invite%20collaborators.png)
+![](../assets/images/invite%20collaborators.png)    
 
 
 5. Invited collaborator receives an e-mail and accept invitation 

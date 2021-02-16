@@ -37,7 +37,7 @@ You can browse and install extensions within VS Code.
 1. Click on the Extension icon in the Activity Bar on the left side ribbon
 
 
- ![](assets/../../assets/images/extension.png)
+ ![](assets/../../assets/images/extension.png)    
 
   2. In search field paste eg.: **Markdown All In One**
   2. The list of the most popular extensions appears

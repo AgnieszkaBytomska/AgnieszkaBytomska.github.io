@@ -14,7 +14,7 @@ It lets you become familiar with source code control features and learn how to c
 
 This manual provides all the information necessary for technical writers to publish content in HTML.
 
-![link](_includes/GitHub%20Process.svg)
+![link](_includes/GitHubProcess.svg)
 
 ## Read setup instructions and become familiar with:
 

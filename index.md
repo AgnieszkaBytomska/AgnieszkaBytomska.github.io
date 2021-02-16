@@ -20,22 +20,12 @@ This manual provides all the information necessary for technical writers to publ
 ## Read setup instructions and become familiar with:
 
 
-| **Visual Studio Code**  | **GitHub Desktop** | **GitHub Pages**|
+| **Visual Studio Code**  | **GitHub Desktop** | **GitHub Pages** | **Markdown** | 
 
- | ![](assets/images/vscode.png) | ![](assets/images/Github.png)  |
-![](assets/images/GitHub%20Pages.png)
+ | ![](assets/images/vscode.png) | ![](assets/images/Github.png)  | 
+![](assets/images/GitHub%20Pages.png) | ![](assets/images/Markdown.png)|
 
-**Markdown**
 
-![](/assets/images/visual%20studio.png)
-
-**GitHub Desktop**
-
-![](assets/images/Github.png)
-
-**GitHub Pages**
-
-![](assets/images/GitHub%20Pages.png)
 
 **Requirements for Installation Visual Studio Code and GitHub Desktop**
 

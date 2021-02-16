@@ -12,6 +12,7 @@ has_children: false
 
 Visual Studio Code is a code editor which allows you to quickly find text and replace in the currently opened file. 
 
+![](/assets/images/visual%20studio.png)
 ## How to Download and Install Visual Studio Code
 
 1. Visual Studio Code can be downloaded from the following link: [Link to Visual Studio Code](https://visualstudio.microsoft.com/downloads/) 

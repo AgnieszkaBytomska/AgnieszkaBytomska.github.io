@@ -23,7 +23,7 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
 5. In the pop-up window, click Install.  
 6. In your computer's Downloads folder, double-click GitHub Desktop.
    
- ![](/assets/images/Github.png)
+     ![](/assets/images/Github.png)
 
    
   The following widow appears:
@@ -51,7 +51,7 @@ screen authorise
 
 2. Commit to Main and Push Origin
 
-![](../assets/images/push.png)
+   ![](../assets/images/push.png)
 
 ## How to Clone Repository
 
@@ -61,13 +61,13 @@ screen authorise
 3. To clone the repository under "Clone with HTTPS" click on the follwing icon
 
 
-![](../assets/images/clone.png)
+    ![](../assets/images/clone.png)
 
 4. In GitHub Desktop Select File> Clone Repository
 
 5. Paste the URL you copied earlier.
 
-![](../assets/images/clone2.png)
+    ![](../assets/images/clone2.png)
 
 6. Press **Clone** to create your local clone.
 

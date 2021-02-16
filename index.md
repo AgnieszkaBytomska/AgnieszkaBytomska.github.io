@@ -20,8 +20,9 @@ This manual provides all the information necessary for technical writers to publ
 ## Read setup instructions and become familiar with:
 
 
-**Visual Studio Code**
+**Visual Studio Code**    **GitHub Desktop**   **GitHub Pages**
 
+| Component | ![](assets/images/vscode.png) |
 ![](assets/images/vscode.png)
 
 **Markdown**

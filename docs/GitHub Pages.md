@@ -18,14 +18,13 @@ Be familiar with the common functions:
 ## How to create Account on GitHub Pages
 1. Click on link https://github.com/login and create account.
 
+ ![](../assets/images/tworzenie%20konta.jpg)
 
-screen
-
-2.  Once you verify your e-mail address, your account is created. 
+2. Verify your e-mail address and click on link. Your account is created. 
 
 ![](../assets/images/email%20verified.png)
 
-3. In the upper-right corner of page, click your profile photo to change your profile settings
+1. In the upper-right corner of page, click your profile photo to change your profile settings
 
 
 ## How to connect GitHub Desktop with GitHub Pages
@@ -41,6 +40,7 @@ screen
 1. In the upper-right corner of any page select **New repository**.
 
 2. Create a new public repository named *username.github.io*, where username is your username (or organization name) on GitHub.
+3. In GitHub Pages cofigure the settings for a new repository eg. private or public view preferences  
 
 For more information, see : [Creating a repository for your site](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 

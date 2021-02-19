@@ -28,29 +28,17 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
    
   The following widow appears:  
    ![](/assets/images/createdesktopaccount.jpg) 
-7. In next step create GitHub Pages User Account. For more details see section GitHub Pages.   
+7. In next step create GitHub Pages User Account.   
 8. Authorise GitHub Pages  
    ![](/assets/images/authorizegithubdesktop.jpg)  
      
-
-
-Connect rep add files commit push
-
-
-
-Identyfikacja użytkownika (imię i nazwisko, e mail)
-•
-Założenie repozytorium
-•
-Dodanie plików
-•
-Commit to Main i Push Origin on GitHubCommit to Main i Push Origin on GitHub
+For more details see section GitHub Pages ![] (  /docs/GitHub Pages.md). 
 
 ## How to create a Local Repository in GitHub
 1. Create a folder on your system (C:\Repos_GitHub). This will act as a local repository which will connect the GitHub Pages.
-2. In GitHub Pages Desktop open tab File  and create new repository
+2. In GitHub Desktop open tab File  and create new repository
     ![](/assets/images/createrepos.png)
-3. In GitHub Pages cofigure the settings for a new repository eg. private or public view preferences  
+
     ![](/assets/images/create%20repository.png)
 4. Commit to Main and Push Origin
    ![](/assets/images/push.png)

@@ -49,11 +49,11 @@ Commit to Main i Push Origin on GitHubCommit to Main i Push Origin on GitHub
 ## How to create a Local Repository in GitHub
 1. Create a folder on your system (C:\Repos_GitHub). This will act as a local repository which will connect the GitHub Pages.
 2. In GitHub Pages Desktop open tab File  and create new repository
-    ![](../assets/images/createrepos.png)
+    ![](/assets/images/createrepos.png)
 3. In GitHub Pages cofigure the settings for a new repository eg. private or public view preferences  
-    ![](../assets/images/create%20repository.png)
+    ![](/assets/images/create%20repository.png)
 4. Commit to Main and Push Origin
-   ![](../assets/images/push.png)
+   ![](/assets/images/push.png)
 
 ## How to Clone Repository
 

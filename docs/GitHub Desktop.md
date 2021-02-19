@@ -26,11 +26,12 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
      ![](/assets/images/Github.png)
 
    
-  The following widow appears:  
-      ![](/assets/images/createdesktopaccount.jpg) 
+  The following widow appears:   
+
+   ![](/assets/images/createdesktopaccount.jpg)   
 7. In next step create GitHub Pages User Account.   
-8. Authorise GitHub Pages  
-      ![](/assets/images/authorizegithubdesktop.jpg)  
+8. Once the GitHub Pages User Account is verified you may Authorise GitHub Pages. This window pop up automatically during GitHub Desktop account creation process.
+       ![](/assets/images/authorizegithubdesktop.jpg)  
      
 For more details see section GitHub Pages. 
 

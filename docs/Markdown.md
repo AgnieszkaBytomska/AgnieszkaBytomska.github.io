@@ -50,3 +50,5 @@ Metadata used to create a well-formatted text file:
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
+
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)

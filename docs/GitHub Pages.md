@@ -18,11 +18,11 @@ Be familiar with the common functions:
 ## How to create Account on GitHub Pages
 1. Click on link https://github.com/login and create account.
 
- ![](../assets/images/tworzenie%20konta.jpg)
+    ![](../assets/images/tworzenie%20konta.jpg)
 
 2. Verify your e-mail address and click on link. Your account is created. 
 
-![](../assets/images/email%20verified.png)
+    ![](../assets/images/email%20verified.png)
 
 1. In the upper-right corner of page, click your profile photo to change your profile settings
 

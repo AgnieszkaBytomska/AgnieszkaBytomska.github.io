@@ -8,7 +8,7 @@ has_children: false
 
 
 
-# Markdown basics
+# Markdown 
 Markdown is a text editor which lets you focus on writing and preview a publishing format in HTML. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, that can then be converted into structurally valid HTML.
 
 ## How to use Markdown for writing documentation
@@ -52,3 +52,5 @@ Metadata used to create a well-formatted text file:
 [Open source online Markdown editor](https://pandao.github.io/editor.md/en.html)
 
 [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+ 
+[Online Lessons](https://commonmark.org/help/tutorial/index.html)

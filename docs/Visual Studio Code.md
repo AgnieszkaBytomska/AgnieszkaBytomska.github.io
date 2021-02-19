@@ -54,15 +54,13 @@ You can browse and install extensions within VS Code.
 [Documentation for VS Code](https://code.visualstudio.com/docs/getstarted/userinterface)
 
 
-[Specification](https://daringfireball.net/projects/markdown/)
+[Getting Started with Visual Studio Code](https://www.codecademy.com/articles/visual-studio-code)
 
-[Tutorial](https://commonmark.org/help/tutorial/index.html)
-
-
-[Extensions](https://github.com/mundimark/awesome-markdown )
+[Technical Articles](https://blogs.sap.com/2020/01/28/github-markdown-visual-studio-code-and-git-to-share-knowledge/)
 
 
-[About Visual Studio Code](https://github.com/cangulo/meetups/tree/master/vs_code_for_docs/) 
+[Extensions](https://code.visualstudio.com/docs/editor/extension-gallery)
+
 
 [Multiple Cursors in Visual Studio Code for Windows](https://tahoeninjas.blog/2019/03/30/multi-cursor-editing-in-visual-studio-code/)
 

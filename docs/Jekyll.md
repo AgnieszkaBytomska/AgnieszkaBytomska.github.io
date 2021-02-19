@@ -26,10 +26,10 @@ GitHub provide some free themes we can apply to our site to add a more professio
 
  CORRECT: remote_theme: *AgnieszkaBytomska/just-the-docs*
 
-In this link, we want to indicate a repository in our account, threfore enter<nazwakonta>/<nazwarepozytorium>. 
+In this link, we want to indicate a repository in our account, threfore enter **nazwakonta/nazwarepozytorium**. 
 
 6. Commit changes
-6. Once we commit this config file, GitHub pages applies the theme to our site. This will give us new options on the layout of our site.
+7. Once we commit this config file, GitHub pages applies the theme to our site. This will give us new options on the layout of our site.
 
 **Learn more**
 

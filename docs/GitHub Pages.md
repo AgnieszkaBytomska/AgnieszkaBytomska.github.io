@@ -33,7 +33,7 @@ Be familiar with the common functions:
 
 2. Create a new public repository named *username.github.io*, where username is your username (or organization name) on GitHub.
 3. In GitHub Pages cofigure the settings for a new repository eg. private or public view preferences  
-   ![](/assets/images/createrepositorypages.jpg)  
+    ![](/assets/images/createrepositorypages.jpg)  
 4. Go to the folder on your system (C:\Repos_GitHub) where you want to store your project, and clone the new repository. Add fileas, commit and push your changes.   
 For more information, see : [Creating a repository for your site](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
 

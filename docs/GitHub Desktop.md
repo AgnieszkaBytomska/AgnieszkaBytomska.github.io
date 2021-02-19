@@ -27,12 +27,12 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
 
    
   The following widow appears:  
-     ![](/assets/images/createdesktopaccount.jpg) 
+      ![](/assets/images/createdesktopaccount.jpg) 
 7. In next step create GitHub Pages User Account.   
 8. Authorise GitHub Pages  
-     ![](/assets/images/authorizegithubdesktop.jpg)  
+      ![](/assets/images/authorizegithubdesktop.jpg)  
      
-For more details see section GitHub Pages ![] (  /docs/GitHub Pages.md). 
+For more details see section GitHub Pages. 
 
 ## How to create a Local Repository in GitHub
 1. Create a folder on your system (C:\Repos_GitHub). This will act as a local repository which will connect the GitHub Pages.

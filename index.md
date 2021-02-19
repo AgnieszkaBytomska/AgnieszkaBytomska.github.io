@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-# Introduction *VSCode GitHub Markdown*
+# *Introduction to VSCode GitHub Markdown*
 
 This document provides the user with a comprehensive description of Visual Studio Code Installation and plug-ins set-up to have a preview of content created. The User Guide presents an overview of the Markdown basics functionality dedicated to text formatting.
 It lets you become familiar with source code control features and learn how to create a private and public repository in GithHub Pages and how to share it with collaborators.

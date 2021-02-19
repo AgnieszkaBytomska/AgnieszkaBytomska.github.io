@@ -22,17 +22,9 @@ Be familiar with the common functions:
 
 2. Verify your e-mail address and click on link. Your account is created. 
 
-    ![](../assets/images/email%20verified.png)
+     ![](../assets/images/email%20verified.png)
 
 1. In the upper-right corner of page, click your profile photo to change your profile settings
-
-
-## How to connect GitHub Desktop with GitHub Pages
-
-Authorise dektop
-
-
-screen
 
 
 ## How to create Public Repository on GitHub Pages
@@ -41,17 +33,9 @@ screen
 
 2. Create a new public repository named *username.github.io*, where username is your username (or organization name) on GitHub.
 3. In GitHub Pages cofigure the settings for a new repository eg. private or public view preferences  
-
+   ![](/assets/images/createrepositorypages.jpg)  
+4. Go to the folder on your system (C:\Repos_GitHub) where you want to store your project, and clone the new repository. Add fileas, commit and push your changes.   
 For more information, see : [Creating a repository for your site](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
-
-screen
-
-Go to the folder where you want to store your project, and clone the new repository:
-
-
-Add, commit, and push your changes:
-
-
 
 
 ## How to share your GitHub Repository with your collaborators
@@ -66,12 +50,32 @@ To host (or share) a Git repository on GitHub, follow the steps below:
 
 4. Enter collaborator username
 
-![](../assets/images/invite%20collaborators.png)    
+    ![](../assets/images/invite%20collaborators.png)    
 
 
 5. Invited collaborator receives an e-mail and accept invitation 
 
-![](../assets/images/invitation.png)
+    ![](../assets/images/invitation.png)
+
+## How to preview changes via GitHub Pages on web browser
+1. After changes done in Markdown, open GitHub Desktop 
+2. Preview changes, add comment, press Commit to Master
+3. Push to origin   
+   ![](assets/../../assets/images/pushtoorigin.png)  
+5. Open repository in GitHub Pages 
+   ![](assets/images/../../../assets/images/openviewdeployment.png)
+7. Click View Deployment to preview changes in HTML
+
+## How to preview code of your collaborators repository in Visual Studio Code
+
+1. Paste name of your collaborator repository in a browser:  *reposytoryname.github.io*
+2. Click Source repository on GitHUb  
+   ![](assets/../../assets/images/changes.png)  
+3. Select Code tab and Open with GitHub Desktop  
+   ![](assets/../../assets/images/collaboratorcode.png)
+5. In GitHub Desktop Click Repository tab and chose: Open in Visual Studio
+.  ![](assets/../../assets/images/opencode.png)  
+
 
 **Learn more**
 

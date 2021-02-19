@@ -27,10 +27,10 @@ GitHub Desktop is a Graphical desktop application which enables adding files and
 
    
   The following widow appears:  
-    ![](/assets/images/createdesktopaccount.jpg) 
+     ![](/assets/images/createdesktopaccount.jpg) 
 7. In next step create GitHub Pages User Account.   
 8. Authorise GitHub Pages  
-   ![](/assets/images/authorizegithubdesktop.jpg)  
+     ![](/assets/images/authorizegithubdesktop.jpg)  
      
 For more details see section GitHub Pages ![] (  /docs/GitHub Pages.md). 
 
@@ -41,7 +41,7 @@ For more details see section GitHub Pages ![] (  /docs/GitHub Pages.md).
 
     ![](/assets/images/create%20repository.png)
 4. Commit to Main and Push Origin
-   ![](/assets/images/push.png)
+    ![](/assets/images/push.png)
 
 ## How to Clone Repository
 
